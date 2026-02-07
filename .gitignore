@@ -1,0 +1,12 @@
+# Swift Playgrounds / SwiftPM
+.build/
+DerivedData/
+.playground/timeline.xctimeline
+
+# Xcode
+*.xcuserstate
+*.xcworkspace
+
+# macOS
+.DS_Store
+
